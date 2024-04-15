@@ -2,6 +2,4 @@ first string
 second string
 third string
 
-new hotfix
-
-commit to newbranch
+aaa
